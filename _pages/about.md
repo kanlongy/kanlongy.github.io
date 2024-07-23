@@ -15,3 +15,4 @@ I am interested in a variety of topics related to Robotics! Such as controls and
 
 Check out my CV [here](../assets/cv.pdf).
 
+<img src='/images/robo.jpg'>
