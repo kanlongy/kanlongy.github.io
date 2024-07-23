@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-[Check my CV here](../assets/CV.pdf)
+[Check my CV here](../assets/cv.pdf)
 ======
