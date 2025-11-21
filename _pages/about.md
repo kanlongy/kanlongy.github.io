@@ -25,15 +25,29 @@ I've built **full UAV autonomy stacks from the ground up**—both in simulation 
 
 **December 2024:** Successfully completed autonomous tunnel inspection demonstration for **TOPRISE CO., LTD** in Fukushima, Japan. Our team deployed a custom LiDAR-equipped UAV system for real-world infrastructure inspection, achieving high-resolution 3D reconstruction (accuracy < 5cm).
 
-<img src='/images/tunnel-inspection-site.jpg'>
-*On-site tunnel inspection in Fukushima, Japan*
+<div style="display: flex; gap: 10px; justify-content: center;">
+  <div style="flex: 1; text-align: center;">
+    <img src='/images/tunnel-inspection-site.jpg' style="width: 100%; height: auto;">
+    <p style="margin-top: 5px; font-style: italic;">On-site tunnel inspection in Fukushima, Japan</p>
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <img src='/images/tunnel pc.jpg' style="width: 100%; height: auto;">
+    <p style="margin-top: 5px; font-style: italic;">Point cloud reconstruction from LiDAR data</p>
+  </div>
+</div>
 
 **June 2025:** Delivered production UAV system to TOPRISE CO., LTD, marking the transition from research prototype to commercial deployment. Our work was featured on **Japanese national television**, showcasing the impact of autonomous inspection technology.
 
 <img src='/images/uav-delivery.jpg'>
 *production UAV system*
 
-[📺 Watch the TV coverage](https://youtu.be/8RByzcvV4B0)
+<video width="100%" controls>
+  <source src="/images/japan tv.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+*Featured on Japanese national television*
+
+[📺 Watch full coverage on YouTube](https://youtu.be/8RByzcvV4B0)
 
 ---
 
