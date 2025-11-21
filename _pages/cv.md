@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download my CV as PDF](../assets/cv.pdf)
+[Check my CV here](../assets/cv.pdf)
 ======
 
 Education
@@ -27,7 +27,6 @@ Education
 
 Publications
 ======
-**C=Conference, J=Journal, W=Workshop, A=arXiv**
 
 * **[A.1]** LV-DOT: LiDAR-visual dynamic obstacle detection and tracking for autonomous robot navigation.  
   Zhefan Xu*, Haoyu Shen*, Xinming Han, Hanyu Jin, **Kanlong Ye**, Kenji Shimada  
