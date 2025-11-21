@@ -9,11 +9,58 @@ redirect_from:
 
 Hi there!  你好呀!  こんにちは!
 
-My name is Kanlong Ye. Currently, I am a master’s student at [Carnegie Mellon University](https://www.cmu.edu/) majoring in Mechanical Engineering. I joined [UAV Team](https://zhefanxu.com/uav_team/) in the Computational Engineering & Robotics Lab (CERLAB) under the supervision of Professor [Kenji Shimada](https://www.meche.engineering.cmu.edu/directory/bios/shimada-kenji.html). My research focues on robot inspection, lidar-based 3d reconstruction and mobile robot control. I received my B.Eng degree in Mechanical Design & Manufacturing and Their Automation (Japanese Intensive) from [Dalian University of Technology](https://en.dlut.edu.cn/) in 2024. I went on an exchange program to the Mechanical Department at [Tohoku University](https://www.tohoku.ac.jp/en/) in 2023. 
+I'm **Kanlong Ye**, a Master's student in Mechanical Engineering (Robotics Track) at [Carnegie Mellon University](https://www.cmu.edu/), specializing in **Robotics and AI**. With a strong foundation in machine learning, deep learning, and generative AI, I am passionate about advancing intelligent robotic systems that can navigate and understand the physical world.
 
-I am interested in a variety of topics related to Robotics! Such as SLAM, motion planning, reinforcement learning, etc. Also very keen on applying these robotics technologies to mobile robots or robotic arms. I have had extensive robotics experience, such as programming and operating robotic arms to grasp objects and write; designing and machining mechanical structures; and utilizing computer vision to aid in underwater robot navigation. Also, I have strong programming and math skills, and am curious about research around robotics using machine learning, reinforcement learning, and more!
+## Research & Interests
+
+At CMU, my research lies at the **intersection of machine learning and robotics**. I work in the [Computational Engineering & Robotics Lab (CERLAB)](https://zhefanxu.com/uav_team/) under Professor [Kenji Shimada](https://www.meche.engineering.cmu.edu/directory/bios/shimada-kenji.html), where I focus on:
+
+- **LiDAR-based UAV inspection** in complex indoor environments (tunnels, bridges)
+- **Wind-aware autonomous control** using reinforcement learning (Transformer-PPO)
+- **Real-world SLAM and trajectory planning** on diverse robotic platforms
+
+I've built **full UAV autonomy stacks from the ground up**—both in simulation (Gazebo, Isaac Sim) and on physical platforms—integrating perception, planning, and control for robust autonomous navigation.
+
+## Recent Highlights
+
+**December 2024:** Successfully completed autonomous tunnel inspection demonstration for **TOPRISE CO., LTD** in Fukushima, Japan. Our team deployed a custom LiDAR-equipped UAV system for real-world infrastructure inspection, achieving high-resolution 3D reconstruction (accuracy < 5cm).
+
+<img src='/images/tunnel-inspection-site.jpg'>
+*On-site tunnel inspection in Fukushima, Japan*
+
+**June 2025:** Delivered production UAV system to TOPRISE CO., LTD, marking the transition from research prototype to commercial deployment. Our work was featured on **Japanese national television**, showcasing the impact of autonomous inspection technology.
+
+<img src='/images/uav-delivery.jpg'>
+*production UAV system*
+
+[📺 Watch the TV coverage](https://youtu.be/8RByzcvV4B0)
+
+---
+
+## Background & Experience
+
+I received my B.Eng in Mechanical Design & Manufacturing and Their Automation (Japanese Intensive) from [Dalian University of Technology](https://en.dlut.edu.cn/) in 2024, where I gained extensive hands-on experience in robotics:
+
+- Programming robotic arms for manipulation tasks
+- Designing and fabricating mechanical systems and MEMS devices
+- Developing computer vision algorithms for underwater robot navigation
+- MEMS research at [Tohoku University](https://www.tohoku.ac.jp/en/) (2023)
+
+## Technical Skills & Languages
+
+I thrive in **interdisciplinary environments where AI meets physical systems**. 
+
+**Technical:** Python, C++, ROS/ROS2, PyTorch, Gazebo, Isaac Sim, MATLAB, Git  
+**Languages:** Chinese (Native), English (Fluent), Japanese (Fluent)
+
+I bring both technical versatility and a global perspective to collaborative robotics projects.
+
+## Looking Forward
+
+I'm currently seeking **research or industry opportunities** in robotics, autonomous systems, and machine learning. Let's connect if you're working on building smarter, more capable robots—or simply share an interest in drones, machine learning, or reinforcement learning!
 
 Check out my CV [here](../assets/cv.pdf).
 
+---
 
-<img src='/images/robo.jpg'>
+<img src='/images/CERLAB-UAV-Autonomy.png'>
